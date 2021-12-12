@@ -28,7 +28,7 @@ main{
     font-family: 'Open Sans' , Arial , Helvetica,sans-serif;
    /* height: calc(100vh - 64px);*/
     /* display: block; */
-    align-items: left;
+  
     padding: 20px;
 
   }
@@ -46,7 +46,7 @@ main{
     font-family: 'Open Sans' , Arial , Helvetica,sans-serif;
    
     display: block;
-    align-items: left;
+    align-items:flex-start;
     justify-content: center;
     padding: 20px;
   }
